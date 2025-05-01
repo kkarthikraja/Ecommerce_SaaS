@@ -4,7 +4,7 @@
 
 This project showcases an advanced **Power BI dashboard** developed for an e-commerce SaaS client to analyze performance metrics across customer acquisition, revenue trends, churn behavior, and product monetization. The goal was to provide strategic visibility into subscription health and guide data-driven decisions.
 
-![image] <img width="644" alt="Image" src="https://github.com/user-attachments/assets/44e3c356-d7d4-4062-b31a-b8e77b97a455" />
+<img width="844" alt="Image" src="https://github.com/user-attachments/assets/44e3c356-d7d4-4062-b31a-b8e77b97a455" />
 
 ## 💡 Key Features
 
